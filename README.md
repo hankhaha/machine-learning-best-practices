@@ -1,5 +1,4 @@
 # machine-learning-best-practices
-# nlp-reference
 This repository serves as the knowledge repository that contains articles and paper published in ML community
 
 
