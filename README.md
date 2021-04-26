@@ -12,4 +12,7 @@ This repository serves as the knowledge repository that contains articles and pa
 4. [Top 4 Sentence Embedding Techniques using Python](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 5. [Semantic Search in NLP](https://medium.com/swlh/semantic-search-with-nlp-86084ca81247)
 
-## QA: Question Answeing
+## Fraud Detection
+1. [Commonly used fraud detection ML](https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html)
+2. [Clustering for Anomaly Detection](https://towardsdatascience.com/best-clustering-algorithms-for-anomaly-detection-d5b7412537c8)
+3. [Silhouette Coefficient: Evaluation Metric for DBSCAN Clustering](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)
