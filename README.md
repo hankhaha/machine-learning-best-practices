@@ -19,4 +19,6 @@ This repository serves as the knowledge repository that contains articles and pa
 
 ## Experiment 
 1. [A/B Testing for Data Science using Python](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
-2. 
+
+## Feature Engineering 
+1. [Multicollinearity](https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/)
