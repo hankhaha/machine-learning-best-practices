@@ -22,6 +22,7 @@ This repository serves as the knowledge repository that contains articles and pa
 
 ## Feature Engineering 
 1. [Multicollinearity](https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/)
+2. [Remove Collinearity](https://towardsdatascience.com/a-python-library-to-remove-collinearity-5a4eb05d3d73)
 
 ## Application
 1. [Customer Churn Prediction](https://towardsdatascience.com/predict-customer-churn-in-python-e8cd6d3aaa7)
