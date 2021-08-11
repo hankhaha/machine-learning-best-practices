@@ -11,6 +11,7 @@ This repository serves as the knowledge repository that contains articles and pa
 3. [Semantic Question Matching with Deep Learning](https://www.quora.com/q/quoraengineering/Semantic-Question-Matching-with-Deep-Learning)
 4. [Top 4 Sentence Embedding Techniques using Python](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
 5. [Semantic Search in NLP](https://medium.com/swlh/semantic-search-with-nlp-86084ca81247)
+6. [Predictive Power Score](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
 ## Fraud Detection
 1. [Commonly used fraud detection ML](https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html)
