@@ -27,3 +27,6 @@ This repository serves as the knowledge repository that contains articles and pa
 
 ## Application
 1. [Customer Churn Prediction](https://towardsdatascience.com/predict-customer-churn-in-python-e8cd6d3aaa7)
+
+## Theory 
+1. [L1 vs L2 Regularization](https://medium.com/analytics-vidhya/l1-vs-l2-regularization-which-is-better-d01068e6658c)
