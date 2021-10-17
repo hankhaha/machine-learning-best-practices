@@ -30,3 +30,6 @@ This repository serves as the knowledge repository that contains articles and pa
 
 ## Theory 
 1. [L1 vs L2 Regularization](https://medium.com/analytics-vidhya/l1-vs-l2-regularization-which-is-better-d01068e6658c)
+
+## Clustering 
+1. [5 clustering methods and applications](https://www.analyticssteps.com/blogs/5-clustering-methods-and-applications)
